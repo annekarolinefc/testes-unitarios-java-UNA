@@ -1,4 +1,4 @@
-# EXERCICÍCOS DE TESTE UNITÁRIOS EM JAVA
+# EXERCÍCIOS DE TESTE UNITÁRIOS EM JAVA
 
 <h1>Matéria:</h1> 
 <h2>Gestão e Qualidade de Software | Centro Universitário UNA</h2>
